@@ -13,4 +13,4 @@ Welcome to my personal portfolio website! This project showcases my journey, ski
 
  📷 Live Demo
 
-You can see the live version of my portfolio here: https://prachi-1421.github.io/portfolio/
+You can see the live version of my portfolio here: https://prachi-madane14.github.io/portfolio/
